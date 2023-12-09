@@ -49,29 +49,64 @@ content:
       - layout: left
         title: TOMRA
         link: tomra.com
-        # link_text: tomra.com
         sub_title: Senior Research Engineer
-        caption: 2015 - Present
-        quote: >
-          Fruit sorting machines: peripherals, controls, analytics
+        caption: 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          The goal is to experience what the customer experiences by going to their facilities and taking on their gripes, ideas and frustrations first hand then designing machines, processes and/or imagining new technologies that would make the biggest impact to their business or the industry.
+          ‣ Team established focussed on leveraging customer relations to drive innovation.
+          ‣ Attained firsthand customer experience by visiting customer facilities and actively listening to their challenges, ideas, and frustrations.
+          ‣ Developed and implemented innovative solutions that delivered significant impact to customer businesses and the industry as a whole.
+      
+      - layout: left
+        title: TOMRA
+        sub_title: Mechanical Design Engineer
+        caption: 2017 - 2020
+        description: | # this will include new lines to allow paragraphs
+          ‣ Defined long-term project scopes for multidisciplinary teams, driving roadmap development.
+          ‣ Resolved engineering discrepancies identified by manufacturing, implementing design updates for production efficiency.
+          ‣ Pioneered new technologies through design and prototyping of automated machinery, leveraging expertise in mechanical, electrical, electronics, and programming disciplines.
+          ‣ Authored comprehensive documentation and training materials for seamless production releases.
+      
+      - layout: left
+        title: Compac Sorting Equipment (Now TOMRA)
+        sub_title: Prototype and Test Engineer
+        caption: 2014 - 2017
+        description: | # this will include new lines to allow paragraphs
+          ‣ Assembly and modification of development machines
+          ‣ Validating performance of new designs.
+          ‣ Consulting on design improvements to be incorporated.
+
+      - layout: left
+        title: LouvreTec 
+        link: louvretec.co.nz
+        sub_title: Draughtsperson
+        caption: 2014 (Part Time)
+        description: | # this will include new lines to allow paragraphs
+          ‣ Producing workshop drawings and cutting lists for manufacture of external building louvres.
+
+      - layout: left
+        title: STX Electronics 
+        link: stx.co.nz
+        sub_title: Computer Technician
+        caption: 2012 - 2013 (Part Time)
+        description: | # this will include new lines to allow paragraphs
+          ‣ Building harsh environment PCs for use in food processing industries.
+          ‣ Designing and building large format touchscreen devices for public spaces.
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Massey University
         caption: 2012 - 2014
-        sub_title: BEng with Homours (Mechatronics)
-        #quote: >
-        #   A quote about Massey?
+        sub_title: BEng with Honours (Mechatronics)
         description: | # this will include new lines to allow paragraphs
-          After moving to NZ I completed my studies in Engineering
-          I spent a lot of my free time as a member of the *Albany Massey Engineering Student Society*
+          Engineering student society president 2013-2014.
       - layout: left
         title: University of Cape Town
         caption: 2008 - 2010
         sub_title: BEng (Mechanical Engineering)
+  
   - title: Projects
     layout: list
     content:
