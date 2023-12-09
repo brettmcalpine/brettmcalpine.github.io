@@ -76,10 +76,12 @@ content:
     layout: list
     content:
       - layout: top_middle
+        title: Project page
+        caption: "click the wrench"
         additional_links:
         - title: Project link
           icon: fas fa-wrench
-          link: https://brettmcalpine.github.io/projects.html
+          url: brettmcalpine.github.io/projects.html
 
 # Footer
 footer_show_references: true
