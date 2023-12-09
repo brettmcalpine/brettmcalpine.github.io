@@ -6,13 +6,27 @@
   <title>My Projects</title>
   <style>
     body {
-      font-family: sans-serif;
-      margin: 20px;
+        color: #333;
+        font-family: Roboto, sans-serif;
+        font-feature-settings: "kern", "liga", "pnum";
+        font-size: 1rem;
+        line-height: 1.5;
+        
+    }
+    .container {
+        margin-top: 50px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 1170px;
     }
 
     h1 {
-      font-size: 2em;
-      margin-bottom: 10px;
+        font-size: 2em;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
     }
 
     .project {
@@ -21,7 +35,7 @@
       padding: 10px;
     }
 
-    .project h2 {
+    .project h3 {
       font-size: 1.5em;
       margin-bottom: 5px;
     }
@@ -32,16 +46,21 @@
   </style>
 </head>
 <body>
-  <h1>My Projects</h1>
+    <div class="container">
+    <h1>My Projects</h1>
 
-  <div class="project">
-    <h2>Project Title</h2>
-    <p>Project description...</p>
-    <a href="#">View project</a>
-  </div>
+    <div class="project">
+        <h3>Project Title</h3>
+        <p>Project description...</p>
+    </div>
+
+    <div class="project">
+        <h3>Project Title</h3>
+        <p>Project description...</p>
+    </div>
+</div>
 
   <script>
-    console.log("Working");
   </script>
 </body>
 </html>

@@ -40,10 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior research engineer. I make many automatic machines and occasionally write code.
 
   I am most skilled in: <mark>Solidworks</mark> and <mark>making Arduinos work harder than they should</mark>.
-
-  See my projects 
-icon: fas fa-wrench
-url: brettmcalpine.github.io/projects.html
+  
 
 content:
   - title: Experience # Title for the section
@@ -56,7 +53,7 @@ content:
         sub_title: Senior Research Engineer
         caption: 2015 - Present
         quote: >
-          Fruit sorting machines, peripherals, controls, analytics
+          Fruit sorting machines: peripherals, controls, analytics
         description: | # this will include new lines to allow paragraphs
           The goal is to experience what the customer experiences by going to their facilities and taking on their gripes, ideas and frustrations first hand then designing machines, processes and/or imagining new technologies that would make the biggest impact to their business or the industry.
   - title: Education # Title for the section
@@ -75,6 +72,9 @@ content:
         title: University of Cape Town
         caption: 2008 - 2010
         sub_title: BEng (Mechanical Engineering)
+  - title: Projects
+    layout: list
+    link: https://brettmcalpine.github.io/projects.html
 
 # Footer
 footer_show_references: true
