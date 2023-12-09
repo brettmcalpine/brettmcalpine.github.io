@@ -74,7 +74,12 @@ content:
         sub_title: BEng (Mechanical Engineering)
   - title: Projects
     layout: list
-    link: https://brettmcalpine.github.io/projects.html
+    content:
+      - layout: top_middle
+        additional_links:
+        - title: Project link
+          icon: fas fa-wrench
+          link: https://brettmcalpine.github.io/projects.html
 
 # Footer
 footer_show_references: true
