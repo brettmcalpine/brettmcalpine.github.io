@@ -10,7 +10,6 @@ name: Brett McAlpine
 title: Senior Research Engineer
 email: brettmcalpine@gmail.com
 website: brettmcalpine.github.io
-projects: brettmcalpine.github.io/projects.html
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,9 +20,9 @@ linkedin_username: brettstuartmcalpine
 
 # Additional icon links
 additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+- title: Projects
+  icon: fas fa-wrench
+  url: brettmcalpine.github.io/projects.html
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
