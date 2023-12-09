@@ -10,6 +10,7 @@ name: Brett McAlpine
 title: Senior Research Engineer
 email: brettmcalpine@gmail.com
 website: brettmcalpine.github.io
+projects: brettmcalpine.github.io/projects.html
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -42,25 +43,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Solidworks</mark> and <mark>making Arduinos work harder than they should</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Kiwifruit Tray Packing Robot
-        #link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          High throughput kiwifruit tray packing machine 
-        description: | # this will include new lines to allow paragraphs
-          I had a hand in creating the pick and place algorithm as well as realtime motion control for the gantries
-          ![alt text](/images/traypacker.jpg "Tray Packer")
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
