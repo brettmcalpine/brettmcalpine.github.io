@@ -76,12 +76,6 @@ content:
         caption: 2008 - 2010
         sub_title: BEng (Mechanical Engineering)
 
-  - title: Outside of work
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Home automation
-      - Beach
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
